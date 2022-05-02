@@ -1,4 +1,4 @@
-# 7_Segment_Clock_Esp8266
+# Monolithic Digital Clock / 7-segment Display Unit
 Arduino code for ESP8266 Wemos Mini D1 (Clone) 
 
 First Version of Monolithic Digital Clock / 7-segment Display Unit
