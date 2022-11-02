@@ -10,8 +10,8 @@
 
 #if !WIFI_SMARTCONFIG
 // if you do not use smartConfifg, please specify SSID and password here
-#define WIFI_SSID "Freebox-190916" // your WiFi's SSID
-#define WIFI_PASS "trinium?-subjugarit-peculiolum35-liberta5" // your WiFi's password
+#define WIFI_SSID "SSID" // your WiFi's SSID
+#define WIFI_PASS "password" // your WiFi's password
 #endif
 
 // LED color setting
